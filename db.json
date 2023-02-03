@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Winifred Wisoky",
+      "id": 5
+    },
+    {
+      "name": "David Harris",
+      "id": 7
+    },
+    {
+      "name": "Alma McClure",
+      "id": 8
+    }
+  ],
+  "albums": [
+    {
+      "title": "Handmade Frozen Table",
+      "userId": 5,
+      "id": "jDzwkWe"
+    },
+    {
+      "title": "Ergonomic Granite Shirt",
+      "userId": 5,
+      "id": "KCzCLKk"
+    },
+    {
+      "title": "Oriental Cotton Cheese",
+      "userId": 5,
+      "id": "OLZWwex"
+    },
+    {
+      "title": "Unbranded Concrete Keyboard",
+      "userId": 5,
+      "id": "ClGfy4S"
+    },
+    {
+      "title": "Awesome Frozen Cheese",
+      "userId": 5,
+      "id": "-Kg3kCY"
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=50616",
+      "albumId": "jDzwkWe",
+      "id": 2
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=67124",
+      "albumId": "jDzwkWe",
+      "id": 3
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=74922",
+      "albumId": "jDzwkWe",
+      "id": 4
+    }
+  ]
+}
